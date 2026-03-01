@@ -25,7 +25,7 @@ void Display_AboutMe(AboutMe person) {
 int main(){
     AboutMe me;
 
-    strcpy(me.nickname, "ApplehatDot (ApplehatDoesStuff)");
+    strcpy(me.nickname, "Jakkret");
     strcpy(me.PLang, "C/C++");
     strcpy(me.pronouns, "he/him");
     strcpy(me.country, "Poland");
