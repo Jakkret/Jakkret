@@ -1,40 +1,15 @@
-Hello, welcome to my Github profile 👋🍎
-```c
-// About Me
-#include <stdlib.h>
-#include <string.h>
+# Hello, welcome to my Github profile 👋😁
+-------------------------------
+I'm a young, Polish graphic design student which tries to learn C programming himself. Maybe my code isn't the best, but I have a lot of fun off it. I really like whatever is retro, and wants to use my knowledge to preserve what existed; I also like poking on the software of various sorts, and technology (that counts: collecting old button phones - like sony ericsson; server infrastructure from 2000's, and many other examples). If i'd have a 2G local tower, i'd make my sony ericssons run on them. *I like these phones alot!*
 
-typedef struct {
-    char nickname[70];
-    char PLang[70];
-    char pronouns[10];
-    char country[30];
-    char interests[100];
-    char* repositories;
-} AboutMe;
+## My small projects
+My current focus is working on **OpenGaduServer** - a self-hosted GaduGadu server for older clients, check it out if you got time!
 
-void Display_AboutMe(AboutMe person) {
-    printf("Nickname: %s\n", person.nickname);
-    printf("Programming Languages: %s\n", person.PLang);
-    printf("Pronouns: %s\n", person.pronouns);
-    printf("Country: %s\n", person.country);
-    printf("Interests: %s\n", person.interests);
-    printf("Repositories: %s\n", person.repositories);
-}
 
-int main(){
-    AboutMe me;
 
-    strcpy(me.nickname, "Jakkret");
-    strcpy(me.PLang, "C/C++");
-    strcpy(me.pronouns, "he/him");
-    strcpy(me.country, "Poland");
-    strcpy(me.interests, "old hardware and software, programming, using various OS' (...)");
-    strcpy(me.repositories, "DVD_GL, SNEK_GL OpenGLHeart, RoseGL, GWM, Win32AboutDialog");
 
-    Display_AboutMe(&me);
+i know this profile thing is empty and bare, but im lazy as of now (21.03.2026) to make a proper one - maybe soon.
 
-    return 0;
-}
 
-```
+
+
