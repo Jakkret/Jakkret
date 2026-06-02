@@ -1,15 +1,14 @@
 # Hello, welcome to my Github profile 👋😁
-I'm a young, Polish graphic design student which tries to learn programming himself. Maybe my code isn't the best, but I have a lot of fun off it. I really like whatever is retro, and wants to use my knowledge to preserve what existed;<br>
-I also like poking on the software of various sorts, and technology (that counts: collecting old button phones - like sony ericsson; server infrastructure from 2000's, and many other examples). If i'd have a 2G local tower, i'd make my sony ericssons run on them. *I like these phones alot!*<br>
+I'm a Polish graphic design student, with a looong passion to computers and tech in general. I'm a self taught C, rare-occasional python programmer, and learning network guy with a dream to bring everything retro back to working state (IMs, Services, Infrastructure).<br>
 <br>
-i really am bored and maybe kinda stupid, so i do whatever comes to my mind
+I try to make useful software, or inspect the insides of an app - or make my own like it was done before. I like the retro look of the websites from 2000's. I try to find time to publish projects and update them, and sometimes i do.
 
-## My small projects
-My current focus is working on **OpenGaduServer** - a self-hosted GaduGadu server for older clients, check it out if you got time! I really want to extend this peoject so it has a proper support for most client versions of Gadu-Gadu
-
-I'll try getting the mobile clients too... but first i gotta make the PC support first ☕️
+u can check out my website (Polish language, IE6 compatible) - http://www.jakkret.net/ <br>
+and my occasional blogs (Polish, IE6 compatible) - http://iblog.jakkret.net/
 
 
+
+[![Jakkrets's GitHub stats](https://github-stats-extended.vercel.app/api?username=Jakkret)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
