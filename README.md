@@ -6,9 +6,12 @@ I try to make useful software, or inspect the insides of an app - or make my own
 u can check out my website (Polish language, IE6 compatible) - http://www.jakkret.net/ <br>
 and my occasional blogs (Polish, IE6 compatible) - http://iblog.jakkret.net/
 
-
-
 [![Jakkrets's GitHub stats](https://github-stats-extended.vercel.app/api?username=Jakkret)](https://github.com/anuraghazra/github-readme-stats)
 
+### Current Projects im working on:
+- [OpenGaduServer](https://github.com/Jakkret/OpenGaduServer/) - open source and cross-platform local server implementation for Gadu-Gadu IM
+- i'm working currently _offline_ on a (WebSocket with TCP)-based IM protocol.
+- Slowly but surely reserve-engineering Microsoft Internet Games
+ 
 
 
