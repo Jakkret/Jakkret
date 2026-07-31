@@ -8,10 +8,9 @@ and my occasional blogs (Polish, IE6 compatible) - http://iblog.jakkret.net/
 
 [![Jakkrets's GitHub stats](https://github-stats-extended.vercel.app/api?username=Jakkret)](https://github.com/anuraghazra/github-readme-stats)
 
-### Current Projects im working on:
+### Current Stuff im working on:
 - [OpenGaduServer](https://github.com/Jakkret/OpenGaduServer/) - open source and cross-platform local server implementation for Gadu-Gadu IM
-- i'm working currently _offline_ on a (WebSocket with TCP)-based IM protocol.
-- Slowly but surely reserve-engineering Microsoft Internet Games
+- Making a retro intranet network on my homelab
  
 
 
