@@ -10,7 +10,7 @@ and my occasional blogs (Polish, IE6 compatible) - http://iblog.jakkret.net/
 
 ### Current Stuff im working on:
 - [OpenGaduServer](https://github.com/Jakkret/OpenGaduServer/) - open source and cross-platform local server implementation for Gadu-Gadu IM
-- Making a retro intranet network on my homelab
+- [OGS-lamma](https://github.com/Jakkret/OGS-lamma) - addition to the Gadu-Gadu server, an offline bot!
  
 
 
